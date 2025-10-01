@@ -39,7 +39,10 @@ Get your free API key from:
 Free tier: 10 requests/minute
 """)
 
-api_key = st.sidebar.text_input("Enter API Key", type="password", help="Your football-data.org API key")
+if 'API_KEY' in st.secrets:
+    api_key = st.secrets['API_KEY']
+else:
+    api_key = st.sidebar.text_input("Enter API Key", type="password")
 
 if not api_key:
     st.warning("⚠️ Please enter your API key in the sidebar to fetch live Champions League data.")
