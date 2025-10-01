@@ -34,7 +34,7 @@ A real-time interactive dashboard for UEFA Champions League standings, statistic
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/champions-league-live-dashboard.git
+   git clone https://github.com/Fratu223/champions-league-live-dashboard.git
    cd champions-league-live-dashboard
    ```
 
