@@ -16,11 +16,7 @@ A real-time interactive dashboard for UEFA Champions League standings, statistic
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://your-app-name.streamlit.app) *(Replace with your actual Streamlit Cloud URL)*
-
-## 📸 Screenshots
-
-*Add screenshots of your dashboard here*
+[View Live Dashboard](https://champions-league-live-dashboard-2hdzfxkhwrcqwa7lc5kxpf.streamlit.app/)
 
 ## 🛠️ Built With
 
